@@ -19,6 +19,10 @@
 - **[raven](https://github.com/tieqianhao/raven)** — 游戏 / 二次元社区黑产内容风控：对抗性归一化 + 字符级模型 + 分级处置。
 - **[FUSED](https://github.com/tieqianhao/FUSED)** — ICME 2026 论文复现：SparseViT 取证分支，用于 AI 图像修复检测。
 
+## 安全工程与情报
+
+- **[vuln-daily](https://github.com/tieqianhao/vuln-daily)** — 全自动漏洞情报日报：每日聚合 CISA KEV / NVD / GitHub Advisory，去重后按游戏引擎与内容安全组件关注列表过滤，GitHub Actions 定时生成并自动提交，无需任何密钥。
+
 ## 联系
 
 邮箱：2180572500@qq.com ｜ 求职方向：渗透测试 / 安全服务 / 安全研发实习
