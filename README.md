@@ -22,6 +22,7 @@
 ## 安全工程与情报
 
 - **[vuln-daily](https://github.com/tieqianhao/vuln-daily)** — 全自动漏洞情报日报：每日聚合 CISA KEV / NVD / GitHub Advisory，去重后按游戏引擎与内容安全组件关注列表过滤，GitHub Actions 定时生成并自动提交，无需任何密钥。
+- **[pentest-report-generator](https://github.com/tieqianhao/pentest-report-generator)** — 渗透测试报告生成器：一份 Markdown 渲染出企业级 HTML/DOCX/PDF 交付件（封面、目录、风险徽章、证据块），`example/` 附完整真实报告样例。
 
 ## 联系
 
